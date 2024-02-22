@@ -1,0 +1,24 @@
+Certainly! Generative AI has made significant strides in assisting people across various domains. Here are **three examples**:
+
+1. **ChatGPT and Bard for Conversations**:
+   - **ChatGPT**, developed by OpenAI, uses generative AI and natural language processing to simulate human-like conversations. It can assist users with tasks such as drafting emails, essays, code, and more ⁴.
+   - **Bard**, another language model, also relies on generative AI and powers features like Smart Compose and Smart Reply in Gmail ³.
+
+2. **Medical Applications**:
+   - **Ada**, a doctor-developed symptom assessment app, employs generative AI to offer medical guidance in multiple languages. It optimizes the expertise of human doctors, supporting improved health outcomes and delivering clinical excellence ⁵.
+
+3. **Performance Management in Organizations**:
+   - As AI-enabled digital tools continuously evolve, managing employees becomes challenging. The **STEP framework** helps address this by:
+     - **Segmenting tasks** for either AI automation or augmentation.
+     - **Transitioning tasks** across work roles.
+     - **Educating workers** to leverage AI's evolving capabilities.
+     - **Evaluating performance** to reflect learning and assistance provided by employees ¹.
+
+Generative AI's impact extends beyond these examples, and its potential continues to grow as technology advances.
+
+Source: Conversation with Bing, 2/21/2024
+(1) The Benefits and Limitations of Generative AI: Harvard Experts Answer .... https://www.harvardonline.harvard.edu/blog/benefits-limitations-generative-ai.
+(2) What is generative AI? A Google expert explains. - The Keyword. https://blog.google/inside-google/googlers/ask-a-techspert/what-is-generative-ai/.
+(3) 50 Useful Generative AI Examples in 2024 - Synthesia. https://www.synthesia.io/post/generative-ai-examples.
+(4) Helping Employees Succeed with Generative AI - Harvard Business Review. https://hbr.org/2023/11/helping-employees-succeed-with-generative-ai.
+(5) Examples of generative AI in action today | ITPro. https://www.itpro.com/technology/artificial-intelligence/examples-of-generative-ai-in-action-today.

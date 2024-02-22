@@ -29,9 +29,57 @@ Here are some key points about Azure OpenAI Service:
 
 ## Tests
 
-### Inputs
+### Using Microsoft Copilot
 
-### Outputs
+#### Inputs
+
+[Topic 1, question 1](./inputs/topic_1_question_1.txt "Topic 1, question 1")
+
+[Topic 1, question 2](./inputs/topic_1_question_2.txt "Topic 1, question 2")
+
+[Topic 1, question 3](./inputs/topic_1_question_3.txt "Topic 1, question 3")
+
+[Topic 2, question 1](./inputs/topic_2_question_1.txt "Topic 2, question 1")
+
+[Topic 3, question 1](./inputs/topic_3_question_1.txt "Topic 3, question 1")
+
+[Topic 4, question 1](./inputs/topic_4_question_1.txt "Topic 4, question 1")
+
+#### Outputs
+
+[Topic 1, answer 1](./outputs/topic_1_answer_1.txt "Topic 1, answer 1")
+
+[Topic 1, answer 2](./outputs/topic_1_answer_2.txt "Topic 1, answer 2")
+
+[Topic 1, answer 3](./outputs/topic_1_answer_3.txt "Topic 1, answer 3")
+
+Topic 2, answer 1, image 1
+![Topic 2, answer 1, image 1](./outputs/topic_2_answer_1_img_1.jpg "Topic 2, answer 1, image 1")
+
+Topic 2, answer 1, image 2
+![Topic 2, answer 1, image 2](./outputs/topic_2_answer_1_img_2.jpg "Topic 2, answer 1, image 2")
+
+Topic 2, answer 1, image 3
+![Topic 2, answer 1, image 3](./outputs/topic_2_answer_1_img_3.jpg "Topic 2, answer 1, image 3")
+
+Topic 2, answer 1, image 4
+![Topic 2, answer 1, image 4](./outputs/topic_2_answer_1_img_4.jpg "Topic 2, answer 1, image 4")
+
+[Topic 3, answer 1](./outputs/topic_3_answer_1.txt "Topic 3, answer 3")
+
+[Topic 4, answer 1](./outputs/topic_4_answer_1.txt "Topic 4, answer 3")
+
+###
+
+#### Inputs
+
+#### Outputs
+
+###
+
+#### Inputs
+
+#### Outputs
 
 ## Insights
 
