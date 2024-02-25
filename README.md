@@ -18,7 +18,11 @@ Here are some key points about Azure OpenAI Service:
 6. **Security and Compliance**: Azure OpenAI Service benefits from Microsoft's robust security measures and compliance certifications.
 7. **Customer Stories**: Organizations like CarMax, AT&T, KPMG, Mercedes-Benz, and SymphonyAI have leveraged Azure OpenAI Service to enhance their operations and improve customer experiences.
 
-## Steps
+## Tests
+
+### Using Microsoft Copilot
+
+#### Steps
 
 1. Provision an Azure OpenAI resource
 2. Explore Azure OpenAI Studio
@@ -26,10 +30,6 @@ Here are some key points about Azure OpenAI Service:
 4. Use the Chat playground to work with the model
 5. Use the DALL-E playground to generate images
 6. Clean up
-
-## Tests
-
-### Using Microsoft Copilot
 
 #### Inputs
 
@@ -69,17 +69,29 @@ Topic 2, answer 1, image 4
 
 [Topic 4, answer 1](./outputs/topic_4_answer_1.txt "Topic 4, answer 3")
 
-###
+### Azure OpenAI Studio
 
-#### Inputs
+#### Steps
 
-#### Outputs
+1. Provision an Azure OpenAI Resource
+2. Deploy a model for language generation
+3. Use chat to work with the model
+4. Use DALL-E to generate images
+5. Clean up
 
-###
+> ⚠️ No testes. Needs a subscription using a company e-mail.
 
-#### Inputs
+### Explore content filters in Azure OpenAI
 
-#### Outputs
+#### Steps
+
+1. Provision an Azure OpenAI Resource
+2. Deploy a model
+3. Generate natural language
+4. Explore content filters
+5. Clean up
+
+> ⚠️ No testes. Needs a subscription using a company e-mail.
 
 ## Insights
 
